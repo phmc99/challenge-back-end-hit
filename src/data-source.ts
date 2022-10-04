@@ -1,8 +1,8 @@
 import "reflect-metadata";
 import { DataSource } from "typeorm";
-import { config } from "dotenv"
+import { config } from "dotenv";
 
-config()
+config();
 
 const AppDataSource = new DataSource({
   type: "postgres",
@@ -23,4 +23,4 @@ const AppDataSource = new DataSource({
       : ["src/migrations/*.ts"],
 });
 
-export default AppDataSource
+export default AppDataSource;

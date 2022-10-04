@@ -6,7 +6,7 @@ import {
 } from "typeorm";
 
 @Entity("planet")
-export default class Survey {
+export default class Planet {
   @PrimaryGeneratedColumn("uuid")
   id!: string;
 
@@ -18,6 +18,9 @@ export default class Survey {
 
   @Column()
   terrain!: string;
+
+  @Column()
+  starWarsMovies!: number;
 
   @CreateDateColumn()
   created_at!: Date;
