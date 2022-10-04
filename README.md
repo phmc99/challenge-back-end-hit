@@ -1,8 +1,8 @@
 # Desafio Back-End AmeDigital
 
 Para fins de estudos, construi essa API seguindo os requisitos de um desafio da empresa Ame Digital.
-- [Enunciado do desafio](https://github.com/AmeDigital/challenge-back-end-hit) <br />
-Se tiver algum feedback, fique a vontade de mandar uma Issue ou me chamar no LinkedIn
+- [Enunciado do desafio](https://github.com/AmeDigital/challenge-back-end-hit)<br />
+Se tiver algum feedback, fique a vontade para mandar uma Issue ou me chamar no LinkedIn
 - [Meu LinkedIn](https://www.linkedin.com/in/phmc99/)
 
 
